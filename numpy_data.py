@@ -390,14 +390,4 @@ print(np.random.uniform(5, 10, 5))
 # ✅8️⃣ normal() → Custom Normal Distribution
 print(np.random.normal(50, 5, 5))
 
-# ✅
-# ✅
-# ✅
-# ✅
-# ✅
-# ✅
-# ✅
-# ✅
-# ✅
-# ✅
-# ✅
+print('thank you')
